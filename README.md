@@ -83,4 +83,3 @@ resume-match-pro/
 MIT License
 
 ---
-Made with ❤️ using Streamlit + GPT-3.5
