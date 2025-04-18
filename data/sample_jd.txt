@@ -1,0 +1,17 @@
+We are seeking a talented and motivated Software Engineer (Backend) to join our fast-growing team.
+
+Responsibilities:
+- Design, develop, and maintain scalable backend services and APIs
+- Optimize application performance and data pipelines
+- Collaborate with frontend and devops teams
+
+Requirements:
+- Proficiency in Python and one backend framework (Flask/Django preferred)
+- Experience with RESTful APIs and database design (SQL and NoSQL)
+- Understanding of cloud platforms like AWS or GCP
+- Familiarity with CI/CD pipelines, Docker, and version control (Git)
+- Strong problem-solving and communication skills
+
+Bonus:
+- Exposure to data engineering or microservices
+- Contributions to open-source or personal tech projects

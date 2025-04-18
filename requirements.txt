@@ -1,0 +1,6 @@
+streamlit==1.32.2
+python-dotenv==1.0.1
+openai==1.14.3
+PyMuPDF==1.23.22
+pandas==2.2.1
+altair==5.2.0
